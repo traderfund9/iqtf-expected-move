@@ -17,4 +17,4 @@ Real-time Expected Move calculator using Twelve Data API.
 4. กดโหลด
 
 ## Live Demo
-https://USERNAME.github.io/iqtf-expected-move/
+https://traderfund9.github.io/iqtf-expected-move/
