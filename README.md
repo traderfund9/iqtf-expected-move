@@ -12,7 +12,7 @@ Real-time Expected Move calculator using Twelve Data API.
 
 ## Usage
 1. เปิดเว็บ
-2. ใส่ Twelve Data API Key (ฟรีที่ https://twelvedata.com)
+2. ใส่ Twelve Data API Key (ฟรีที่ https://twelvedata.com
 3. เลือก Symbol + Timeframe
 4. กดโหลด
 
